@@ -64,7 +64,6 @@ Once connected to the Ultra96, run the following commands:
 ## Unity Project Setup
 1. Extract the sw_vizualizer zip provided
 2. Using Unity Hub, open the project
-3. In InputManager, change the IP address to the comms
-4. Change the CA accordingly
+3. In InputManager, change the IP address to the laptop mqtt broker
 5. Build and run the project on iOS device
 
