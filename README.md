@@ -61,3 +61,10 @@ Once connected to the Ultra96, run the following commands:
 1.	Navigate to the communications folder: cd /home/xilinx/comms
 2.	Run: python3 comms.py
 
+## Unity Project Setup
+1. Download project from (link)
+2. Using Unity Hub, open the project
+3. In InputManager, change the IP address to the comms
+4. Change the CA accordingly
+5. Build and run the project on iOS device
+
